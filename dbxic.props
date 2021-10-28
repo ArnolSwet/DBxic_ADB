@@ -1,0 +1,6 @@
+# DBxic's database directory
+dbxic.base.dir=C:\Users\ArnauCirera\Documents\Universitat\DBB\dbxic\db
+# DBxic's temporary files directory
+dbxic.temp.dir=C:\Users\ArnauCirera\Documents\Universitat\DBB\dbxic\tmp
+# The number of blocks in the buffer
+dbxic.buffersize=50
